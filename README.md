@@ -5,7 +5,8 @@ Scripts to automate various tasks for justinguitar.com products
 ### Setup
 First ensure that you have handbrake and handbrake cli installed:
 
-Handbrake -- https://handbrake.fr/
+Handbrake -- https://handbrake.fr/ 
+
 Handbrake CLI -- https://handbrake.fr/downloads2.php
 
 You can double check by opening your terminal / command prompt and typing:
