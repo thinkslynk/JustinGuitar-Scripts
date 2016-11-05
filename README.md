@@ -2,6 +2,11 @@
 Scripts to automate various tasks for justinguitar.com products
 
 ## extractFromISO.py
+
+A script to export your iso as mp4s. You can purchase justinguitar isos here:
+
+http://www.justinguitar.com/en/PR-667-ISO-files.php
+
 ### Setup
 First ensure that you have handbrake and handbrake cli installed:
 
