@@ -39,4 +39,4 @@ Simply mount the iso and call the script as follows:
 ./extractFromISO.py /path/to/the/dvd/ /path/to/save/files/
 ```
 
-Follow the on screen prompts for choosing the which product the iso is, which disc you're using, and what quality you want to expor to. Note that transcoding files may take upwards of a few hours on slow computers. So if the script looks like it's frozen, just give it some time.
+Follow the on screen prompts for choosing the which product the iso is, which disc you're using, and what quality you want to export to. Note that transcoding files may take upwards of a few hours on slow computers. So if the script looks like it's frozen, just give it some time.
